@@ -19,7 +19,7 @@ watch(
 )
 </script>
 <template>
-  <el-watermark :font="font" :content="['Element+', 'Element Plus']">
+  <el-watermark :font="font" :content="['马赢', 'm30058910']">
     <div style="height: 500px" />
   </el-watermark>
 </template>
